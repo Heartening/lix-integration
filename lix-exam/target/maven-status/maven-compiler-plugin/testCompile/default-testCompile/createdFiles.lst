@@ -1,0 +1,4 @@
+com\lix\mapper\CourseMapperTest.class
+com\lix\service\CourseServiceTest.class
+com\lix\mapper\MapperTest.class
+com\lix\service\UserLoginServiceTest.class
